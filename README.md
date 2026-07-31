@@ -24,7 +24,7 @@ abutment cross-sections in a two-panel longwall layout.
 
 ## Requirements
 
-- MATLAB [version — fill in] with the **Deep Learning Toolbox**
+- MATLAB R2024a with the **Deep Learning Toolbox**
 - No GPU is required to run the quick test (CPU inference completes in under a
   minute). Training the model from scratch (`model/CNN_v10.m`) benefits from a
   CUDA-compatible GPU but will also run on CPU.
