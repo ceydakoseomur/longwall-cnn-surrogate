@@ -61,14 +61,6 @@ corresponding author on request (see the Data availability statement in the
 manuscript). The processed dataset needed to run the quick test and retrain the
 model (`MasterData_S1_v7.mat`) is included directly in this repository.
 
-## Citation
-
-If you use this code, please cite:
-
-> Köseömür, A.C., Yardımcı, A.G. Trained Surrogate Models for Prediction of Longwall
-> Stress Field Through Convolutional Neural Networks. *Computers & Geosciences*
-> (under review). [DOI to be added upon publication]
-
 ## Contact
 
 Ayten Ceyda Köseömür — aceyda@metu.edu.tr
