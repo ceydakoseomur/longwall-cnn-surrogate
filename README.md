@@ -1,8 +1,6 @@
 # CNN Surrogate for Longwall Stress Field Prediction
 
-Code accompanying the manuscript *"Trained Surrogate Models for Prediction of Longwall
-Stress Field Through Convolutional Neural Networks"* (submitted to *Computers &
-Geosciences*).
+Code accompanying the manuscript “A Novel Framework for Prediction of Stress Field in Underground Openings: Trained Surrogate Models.”
 
 A residual convolutional neural network is trained on a parametric FLAC3D dataset to
 predict the spatial distribution of the major principal stress (σ₁) across pillar and
